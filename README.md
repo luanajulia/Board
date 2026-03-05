@@ -110,12 +110,4 @@ Este projeto está licenciado sob a licença [MIT License](LICENSE).
 
 ---
 
-### Personalização:
 
-* **`[Seu Nome ou Nome da Organização]`**: Adicione seu nome ou o nome da sua organização na seção de Licença.
-* **`[Link para o License]`**: Crie um arquivo `LICENSE` na raiz do seu projeto e adicione o conteúdo da licença MIT nele. O GitHub geralmente permite adicionar isso automaticamente ao criar o repositório.
-* **`[Seu Usuário do GitHub]`**: No link de `git clone`, substitua `luanajulia` pelo seu nome de usuário.
-* **Capturas de Tela (Opcional)**: Se for uma aplicação gráfica, adicionar screenshots da interface pode ser muito útil. Para CLI, menos comum, mas você pode mostrar exemplos de interação no terminal.
-* **Testes (Se houver)**: Se você tiver testes, adicione uma seção "Como Rodar os Testes" com o comando `./gradlew test`.
-
-Este `README.md` oferece uma visão geral completa do seu projeto, facilitando para outras pessoas (e para você mesmo no futuro) entenderem e usarem o código.
