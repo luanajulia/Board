@@ -104,10 +104,6 @@ Contribuições são bem-vindas! Se você deseja contribuir, siga estes passos:
 4.  Envie suas alterações para a sua branch no fork (`git push origin feature/sua-feature`).
 5.  Abra um Pull Request para a branch `main` deste repositório.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença [MIT License](LICENSE).
-
 ---
 
 
