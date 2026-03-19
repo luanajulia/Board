@@ -106,4 +106,6 @@ Contribuições são bem-vindas! Se você deseja contribuir, siga estes passos:
 
 ---
 
+*👩‍💻 Autora Desenvolvido com ❤️ por Luana Julia.*
+
 
